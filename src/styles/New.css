@@ -1,0 +1,37 @@
+.one {
+    margin-top: 50px;
+}
+.one_1 {
+    width: 500px;
+    height: 30px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    margin-left: 60px;
+}
+
+.two_2 {
+    width: 500px;
+    height: 30px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    margin-left: 60px;
+}
+
+.three_3 {
+    width: 500px;
+    height: 300px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    margin-left: 60px;
+}
+
+.save {
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 35px;
+    border-radius: 8px;
+    margin-left: 250px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
